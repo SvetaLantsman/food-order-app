@@ -1,7 +1,7 @@
 import styles from './Cart.module.css'
 
 
-const Cart =()=>{
+const Cart =(props)=>{
     return
 }
 
